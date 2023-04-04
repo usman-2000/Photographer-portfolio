@@ -9,7 +9,7 @@ function Footer() {
   return (
     <div>
       <div className="footer">
-        <h2>Let's Work Together</h2>
+        <h2>Let's Work Together!</h2>
         <a href="#">Download Resume</a>
       </div>
       <div className="icons">
